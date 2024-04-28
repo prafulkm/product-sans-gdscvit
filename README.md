@@ -1,6 +1,6 @@
 ![Google Sans](https://i.imgur.com/VWjSZX3.png)
 
-# Google Sans Font aka Product Sans
+# Product Sans
 
 Product Sans is a geometric sans-serif typeface created by Google for branding purposes.[2][3] It replaced the old Google logo on September 1, 2015. As Google's branding was becoming more apparent on a multitude of devices, Google sought to adapt its design so that its logo could be portrayed in constrained spaces and remain consistent for its users across platforms. Product Sans is also used in some of Google’s user interfaces, in a size-optimized version named Google Sans[4].
 
